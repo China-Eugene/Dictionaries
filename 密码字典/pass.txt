@@ -1,0 +1,18 @@
+root
+test
+123456
+admin
+root
+sa
+'or'='or'
+111111
+12345
+12345678
+888888
+8888888
+"or "a"="a
+ 'OR 1=1%00
+1
+'or 1=1/*
+Password
+abc123

